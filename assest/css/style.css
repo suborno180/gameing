@@ -10,6 +10,7 @@
           box-sizing: border-box;
   scroll-behavior: smooth;
   font-family: Poppins;
+  cursor: url(../img/curasol.png), auto;
 }
 
 :root {
