@@ -4,7 +4,7 @@
 
 This gaming website is a passion project where I explore the world of interactive entertainment. Whether you're a casual gamer or a dedicated enthusiast, there's something for everyone here.
 
-🚀 **[Check out my gaming website](https://suborno180.github.io/gameing/){:target="_blank"}** 🚀
+🚀 **[Check out my gaming website](https://suborno180.github.io/gameing/)** 🚀
 
 ## What's Inside:
 
