@@ -15,6 +15,6 @@ This gaming website is a passion project where I explore the world of interactiv
 
 Feel the excitement, challenge yourself, and discover new favorites. Your journey into the gaming realm starts here!
 
-![Gaming Universe](https://suborno180.github.io/gameing/assest/img/HeroImage.webp) <!-- Add an image if you like -->
+![Gaming Universe](https://suborno180.github.io/gameing/assest/img/ytryty.PNG) <!-- Add an image if you like -->
 
 If you have any feedback or suggestions, feel free to reach out. Happy gaming! 🎮🌟
